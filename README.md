@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇ola hola, bienvenid@ <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> ----𝐇ola hola, bienvenid@ <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">-----</h2>
 </div>
 
 ## Sobre mí
