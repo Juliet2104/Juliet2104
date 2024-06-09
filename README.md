@@ -14,9 +14,10 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - Diseño Web Responsivo
 
 
-   <a href="https://link-al-desarrollo-web.com" target="_blank">
+  <a href="#desarrollo-web-detalle">
   <img src="https://img.shields.io/badge/Ver%20más-Desarrollo%20Web-pink?style=for-the-badge">
 </a>
+
 
 ### *Temas Extra*
 - Hojas estilo CSS
@@ -24,7 +25,8 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - Teoría del Color
 
 
-   <a href="https://link-a-temas-extra.com" target="_blank">
+   
+<a href="#temas-extra-detalle">
   <img src="https://img.shields.io/badge/Ver%20más-Temas%20Extra-pink?style=for-the-badge">
 </a>
 
@@ -36,6 +38,21 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 .
 
 ---
+## Información Detallada
 
-¡Gracias por visitar mi perfil de GitHub! Si te gustan mis proyectos, no dudes en seguirme y contribuir a ellos
-    
+### Desarrollo Web Detalle
+<a id="desarrollo-web-detalle"></a>
+En esta sección, puedes agregar información detallada sobre Desarrollo Web:
+
+- *HTML*: HTML es el lenguaje de marcado utilizado para estructurar y presentar el contenido en la web.
+- *Elementos de una página web*: Incluyen títulos, párrafos, imágenes, enlaces, listas, etc.
+- *Diseño Web Responsivo*: Técnicas y herramientas para asegurar que las páginas web se vean bien en todos los dispositivos.
+
+### Temas Extra Detalle
+<a id="temas-extra-detalle"></a>
+En esta sección, puedes agregar información detallada sobre los temas extra:
+
+- *Hojas de estilo CSS*: CSS se utiliza para dar estilo y diseño a las páginas web, separando el contenido de la presentación.
+- *Árbol de Navegación*: Representa la estructura jerárquica de las páginas dentro de un sitio web.
+- *Teoría del Color*: Estudia cómo los colores interactúan entre sí y cómo pueden ser utilizados efectivamente en el diseño web
+¡Gracias por visitar mi perfil de GitHub! 
