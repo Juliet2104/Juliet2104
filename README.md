@@ -4,7 +4,7 @@
 
 ## Detalles-
 
-Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos relacionados con el Desarrollo de Aplicaciones Web el cual lo relacionamos mucho tambien con la creatividad, en lo personal me gusta mucho esta materia ya que no esta tan confusa.
+Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos relacionados con el Desarrollo de Aplicaciones Web el cual lo relacionamos mucho tambien con la creatividad, en lo personal me gusta mucho esta materia ya que no esta tan confusa,espero sea de tu agrado.
 
 ## Temas Principales-
 
@@ -112,5 +112,7 @@ La estructura de navegación por un sitio web viene definida por la experiencia 
 La estructura de navegación se suele elegir en función del tipo de contenido. Existen distintos tipos de
 estructuras:
 Jerárquica: Estructura en arbol donde existe una página indice o principal desde donde se accede al resto de páginas. Desde estas subpáginas se puede acceder a Otras y así sucesivamente creando distintos niveles o jerarquías. Es ideal para sitios web de centros o proyectos. No se aconseja utilizar más de 4 niveles para evitar que el  usuario se desoriente durante la navegación. Conviene situar en todas las páginas un menú que permite moverse de una forma y fácil y directa distintos niveles y páginas de cada nivel.
-- *Teoría del Color*: Estudia cómo los colores interactúan entre sí y cómo pueden ser utilizados efectivamente en el diseño web
+- *Teoría del Color*: Estudia cómo los colores interactúan entre sí y cómo pueden ser utilizados efectivamente en el diseño web.
+  
+  
 ¡Gracias por visitar mi perfil de GitHub! 
