@@ -14,7 +14,7 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - Diseño Web Responsivo
 
 
-  <a href="#desarrollo-web-detalle">
+  <a href="#desarrollo-web">
   <img src="https://img.shields.io/badge/Ver%20más-Desarrollo%20Web-pink?style=for-the-badge">
 </a>
 
