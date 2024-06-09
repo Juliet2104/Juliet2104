@@ -12,7 +12,9 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - HTML
 - Elementos de una pagina web
 - Diseño Web Responsivo
-  <a href="https://link-al-desarrollo-web.com" target="_blank">
+
+
+   <a href="https://link-al-desarrollo-web.com" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20más-Desarrollo%20Web-green?style=for-the-badge">
 </a>
 
