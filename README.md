@@ -26,9 +26,8 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 
 ## Mis Proyectos Destacados
 
-- [Proyecto 1](https://github.com/tu_usuario/proyecto1): Breve descripción del proyecto.
-- [Proyecto 2](https://github.com/tu_usuario/proyecto2): Breve descripción del proyecto.
-- [Proyecto 3](https://github.com/tu_usuario/proyecto3): Breve descripción del proyecto.
+- [Proyecto ](file:///D:/PRACTICAS/Turismo.html): Breve descripción del proyecto.
+.
 
 ---
 
