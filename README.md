@@ -52,7 +52,7 @@ Un documento HTML típico se compone de varias secciones fundamentales:
 1. <!DOCTYPE html>: Declara el tipo de documento y la versión de HTML. En este caso, HTML5.
 2. <html lang="es">: Indica el comienzo del documento HTML y establece el idioma del contenido (español en este ejemplo).
 3. <head>: Contiene metadatos sobre el documento, como el título (<title>), la codificación de caracteres (<meta charset="UTF-8">), y la configuración de la vista (<meta name="viewport" content="width=device-width, initial-scale=1.0">).
-4. <body>: Contiene el contenido visible de la página web, como encabezados (<h1>), párrafos (<p>), imágenes, enlaces, etc.
+4. <body>: Contiene el contenido visible de la página web, como encabezados (h1), párrafos (<p>), imágenes, enlaces, etc.
 
 - *Elementos de una página web*:
   1. Nombre del dominio
