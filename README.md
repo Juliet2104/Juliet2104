@@ -14,7 +14,7 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - Diseño Web Responsivo
 
 
-  <a href="#desarrollo-web">
+  <a href="#desarrollo-web-detalle">
   <img src="https://img.shields.io/badge/Ver%20más-Desarrollo%20Web-pink?style=for-the-badge">
 </a>
 
@@ -41,7 +41,7 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 ## Información Detallada
 
 ### Desarrollo Web
-<a id="desarrollo-web"></a>
+<a id="desarrollo-web-detalle"></a>
 En esta sección, puedes agregar información detallada sobre Desarrollo Web:
 
 - *HTML*: HTML es el lenguaje de marcado utilizado para estructurar y presentar el contenido en la web.
