@@ -22,6 +22,8 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - Hojas estilo CSS
 - Arbol de Navegación
 - Teoría del Color
+
+
    <a href="https://link-a-temas-extra.com" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20más-Temas%20Extra-pink?style=for-the-badge">
 </a>
