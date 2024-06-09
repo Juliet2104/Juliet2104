@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de GitHub</title>
-</head>
-<body>
-    <h1>Bienvenido a mi GitHub</h1>
-    <p>Haz clic en el siguiente enlace para ver el archivo de turismo:</p>
-    <a href="file:///D:/PRACTICAS/Turismo.html" target="_blank">Ver Turismo</a>
-</body>
-</html>
 <div align="center">
 <h2> -----𝐇ola hola, bienvenid@ <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">-----</h2>
 </div>
@@ -37,9 +24,6 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]( https://www.instagram.com/ykl_mgt?igsh=MTRuMDJ5enJ3dHFqcQ%3D%3D&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/itkayul.montes?mibextid=LQQJ4d)
 
-## Mis Proyectos Destacados
-
-- [![Proyecto](file:///D:/PRACTICAS/Turismo.html)] : Breve descripción del proyecto.
 .
 
 ---
