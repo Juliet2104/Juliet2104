@@ -4,7 +4,7 @@
 
 ## Detalles-
 
-Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos relacionados con el Desarrollo de Aplicaciones Web el cual lo relacionamos mucho tambien con la creatividad, en lo personal me gusta mucho esta materia ya que no esta tan confusa y bonita .
+Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos relacionados con el Desarrollo de Aplicaciones Web el cual lo relacionamos mucho tambien con la creatividad, en lo personal me gusta mucho esta materia ya que no esta tan confusa.
 
 ## Temas Principales-
 
@@ -12,12 +12,17 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 - HTML
 - Elementos de una pagina web
 - Diseño Web Responsivo
+  <a href="https://link-al-desarrollo-web.com" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20más-Desarrollo%20Web-green?style=for-the-badge">
+</a>
 
 ### *Temas Extra*
 - Hojas estilo CSS
 - Arbol de Navegación
 - Teoría del Color
-
+<a href="https://link-a-temas-extra.com" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20más-Temas%20Extra-green?style=for-the-badge">
+</a>
 
 ## Conéctate Conmigo
 
