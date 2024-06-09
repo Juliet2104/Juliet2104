@@ -26,7 +26,7 @@ Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos r
 
 ## Mis Proyectos Destacados
 
-- [![Proyecto ](file:///D:/PRACTICAS/Turismo.html)]: Breve descripción del proyecto.
+- [![Proyecto](file:///D:/PRACTICAS/Turismo.html)] : Breve descripción del proyecto.
 .
 
 ---
