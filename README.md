@@ -1,37 +1,28 @@
 <div align="center">
-<h2> ----𝐇ola hola, bienvenid@ <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">-----</h2>
+<h2> -----𝐇ola hola, bienvenid@ <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">-----</h2>
 </div>
 
-## Sobre mí
+## Detalles-
 
-hola holaa, soy Juliet Garcia. En este repositorio, encontrarás proyectos y recursos relacionados con diversos temas de programación.
+Soy Juliet Garcia. En este repositorio, encontrarás algun proyecto y recursos relacionados con el Desarrollo de Aplicaciones Web el cual lo relacionamos mucho tambien con la creatividad, en lo personal me gusta mucho esta materia ya que no esta tan confusa y bonita .
 
-## Temas Principales
+## Temas Principales-
 
-### 1. *Desarrollo Web*
-- HTML, CSS, JavaScript
-- Frameworks como React y Angular
-- Diseño responsive y accesibilidad
+###  *Desarrollo Web*
+- HTML
+- Elementos de una pagina web
+- Diseño Web Responsivo
 
-### 2. *Desarrollo Móvil*
-- Aplicaciones nativas para Android e iOS
-- Desarrollo con Flutter y React Native
-- Integración de APIs y servicios
+### *Temas Extra*
+- Hojas estilo CSS
+- Arbol de Navegación
+- Teoría del Color
 
-### 3. *Inteligencia Artificial*
-- Aprendizaje automático y profundo
-- Procesamiento de lenguaje natural
-- Proyectos con Python y TensorFlow
-
-### 4. *DevOps y Cloud Computing*
-- Automatización de infraestructura
-- Herramientas como Docker y Kubernetes
-- Servicios de AWS, Azure, y Google Cloud
 
 ## Conéctate Conmigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tu_usuario)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]( https://www.instagram.com/ykl_mgt?igsh=MTRuMDJ5enJ3dHFqcQ%3D%3D&utm_source=qr)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/itkayul.montes?mibextid=LQQJ4d)
 
 ## Mis Proyectos Destacados
 
